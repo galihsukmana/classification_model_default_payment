@@ -1,4 +1,3 @@
-# classification_model_default_payment
 # Supervised Learning Project
 
 Welcome to the repository for my supervised learning project! This project focuses on building and training a supervised learning model to predict credit card default payment.
